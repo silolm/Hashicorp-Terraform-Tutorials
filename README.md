@@ -28,12 +28,12 @@ Each tutorial lives in its own folder, with its own `README.md` that explains:
 
 | Tutorial Track | Description |
 |----------------|-------------|
-| AWS | Create, manage, and destroy AWS infrastructure using Terraform (8 tutorials). |
-| Azure | Build, change, and destroy Azure infrastructure using Terraform (6 tutorials). |
-| HCP Terraform | Collaborate on version-controlled configuration using HCP Terraform (7 tutorials). |
-| Docker | Build, change, and destroy Docker infrastructure using Terraform (7 tutorials). |
-| GCP | Build, change, and destroy Google Cloud Platform (GCP) infrastructure using Terraform (7 tutorials). |
-| OCI | Build, change, and destroy a virtual cloud network and subnet on Oracle Cloud Infrastructure (OCI) using Terraform (7 tutorials). |
+| AWS | Create, manage, and destroy AWS infrastructure using Terraform. |
+| Azure | Build, change, and destroy Azure infrastructure using Terraform. |
+| HCP Terraform | Collaborate on version-controlled configuration using HCP Terraform. |
+| Docker | Build, change, and destroy Docker infrastructure using Terraform. |
+| GCP | Build, change, and destroy Google Cloud Platform (GCP) infrastructure using Terraform. |
+| OCI | Build, change, and destroy a virtual cloud network and subnet on Oracle Cloud Infrastructure (OCI) using Terraform. |
 
 ---
 
